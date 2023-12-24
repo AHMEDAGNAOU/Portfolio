@@ -1,5 +1,5 @@
 import React from 'react'
-import './nac.css'
+import './nav.css'
 
 const Nav = () => {
   return (
