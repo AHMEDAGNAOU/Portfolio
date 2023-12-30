@@ -38,9 +38,11 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos voluptatem eius dolorem
-            maiores nihil ducimus at rem ullam reprehenderit quidem quia deserunt, molestiae, eligendi
-            amet repellat molestias molestias quos totam.
+            My name is Ahmed Agnaou, a recent graduate of the Brevet de Technicien Supérieur (BTS) with an option in Multimedia and Web Site Design (MCW).
+            I am excited to apply and strengthen the skills acquired during my studies.
+            My academic background has allowed me to develop a solid understanding of web design principles, as well as practical skills in using multimedia tools.
+            My ardent desire to work and contribute to the development of your company is supported by a strong commitment.
+             I am willing to put in a lot of effort to learn, collaborate, and add value to your team.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
